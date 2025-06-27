@@ -1,0 +1,2 @@
+class Devotional < ApplicationRecord
+end
